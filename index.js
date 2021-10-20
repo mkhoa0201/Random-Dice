@@ -24,7 +24,7 @@ if (randomNum1 > randomNum2) {
     document.querySelector("h1").innerHTML = "Draw!";
   }
 
-  function refreshPage(){
+function refreshPage(){
     window.location.reload();
 } 
   

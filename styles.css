@@ -2,7 +2,7 @@
   width: 70%;
   margin: auto;
   text-align: center;
-}
+} 
 
 .dice {
   text-align: center;
@@ -10,8 +10,29 @@
 
 }
 
+
+.btn-container {
+  text-align: center;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  padding-top: 50px;
+}
+.button {
+  background-color: #406343;
+  color: #F3EFCC;
+  border-color: #F3EFCC;
+  
+}
+
+.button:hover {
+  background-color: #1e3120;
+  border-color: #F3EFCC;
+}
+
 body {
-  background-color: #32502E;
+  background-color: #273f24;
 }
 
 h1 {
