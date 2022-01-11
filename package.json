@@ -1,0 +1,19 @@
+{
+  "name": "dicee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkhoa0201/Random-Dice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkhoa0201/Random-Dice/issues"
+  },
+  "homepage": "https://github.com/mkhoa0201/Random-Dice#readme"
+}
